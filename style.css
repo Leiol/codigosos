@@ -1,0 +1,46 @@
+body{
+    background-image: url(17503.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color:wheat;
+}
+a:hover{
+    color:wheat;
+    text-decoration: none;
+}
+
+.p1{
+    background-color: aqua;
+    color: black;
+}
+.p2{
+    background-color: pink;
+    color: black;
+}
+.p3{
+    background-color: red;
+    color: black;
+}
+p{
+   text-align: center;
+   margin: 10px;
+   padding: 5px;
+}
+h1{
+    text-align: center;
+}
+ol{
+   text-align: center;
+}
+table{
+   margin: auto;
+}
+.sec1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sec2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sec3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
